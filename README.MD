@@ -1,4 +1,4 @@
-## HiSpeedAdaptorForPupilEXT - Repurposing an SMI HiSpeed tower-mounted eye-tracker to be used with PupilEXT open-source pupillometry software
+# HiSpeedAdaptorForPupilEXT - Repurposing an SMI HiSpeed tower-mounted eye-tracker to be used with PupilEXT open-source pupillometry software
 
 ***
 
@@ -108,9 +108,9 @@ You need an adapter element that will make your selected Basler camera fit in th
 
 *You can find the SLS 3D-printable parts modeled here in this repository.*   
 
-[For Basler Ace series cameras](SMI_HiSpeed_Basler_ace_adaptor_n.stl)
+[For Basler Ace series cameras](https://raw.githubusercontent.com/kheki4/HiSpeedAdaptorForPupilEXT/master/SMI_HiSpeed_Basler_ace_adaptor_n.stl)
 
-[For Basler Ace 2 series cameras](SMI_HiSpeed_Basler_ace2_adaptor_n.stl)
+[For Basler Ace 2 series cameras](https://raw.githubusercontent.com/kheki4/HiSpeedAdaptorForPupilEXT/master/SMI_HiSpeed_Basler_ace2_adaptor_n.stl)
 
 Choose the one you need, either for Basler Ace or Ace 2 (or any other cameras of Basler, given it fits the same 3 mouting holes). Once printed, adding two M3 hex nuts and gluing them with a little amount of super glue, will be necessary to mount your new camera with the adapter into the SMI tower unit.
 

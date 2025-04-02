@@ -9,6 +9,8 @@ If you happen to be a researcher with a faulty SMI HiSpeed system, which is serv
 Here I assume though, that that the IR illumination of your system is intact.
 The transformation is fully reversible (if you keep the original SMI-installed Windows on original SSD of the SMI host PC).
 
+![](images/SMI_HiSpeed.jpg)
+
 ***
 
 ## Before you go with it

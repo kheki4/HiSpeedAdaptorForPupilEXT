@@ -1,4 +1,4 @@
-# HiSpeedAdaptorForPupilEXT - Repurposing an SMI HiSpeed tower-mounted eye-tracker to be used with PupilEXT open-source pupillometry software
+# Repurposing an SMI HiSpeed tower-mounted eye-tracker to be used with PupilEXT open-source pupillometry software
 
 ***
 
